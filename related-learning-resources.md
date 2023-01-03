@@ -13,3 +13,9 @@
 ## Why Vim?
 作者对比了几种文本编辑器，讲述了自己为什么最终选择Vim作为自己的日常文本编辑工具，以及给出的一些Vim强大功能的示例。很好的一篇文章。
 [Why Vim?](http://www.terminally-incoherent.com/blog/2012/03/21/why-vim/)
+
+# Vim相关的书籍📚
+
+## 《Practical Vim: Edit Text at the Speed of Thought》
+
+这本绝对是最经典的 Vim 书籍。值得放在电脑旁边，随时查找。每一次翻看，都可能会带来新的收获。
