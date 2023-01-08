@@ -14,6 +14,15 @@
 作者对比了几种文本编辑器，讲述了自己为什么最终选择Vim作为自己的日常文本编辑工具，以及给出的一些Vim强大功能的示例。很好的一篇文章。
 [Why Vim?](http://www.terminally-incoherent.com/blog/2012/03/21/why-vim/)
 
+## vimregex
+网站 [http://vimregex.com/](http://vimregex.com/)。这是一个有关 vim 中正则表达式使用的教程。
+
+这篇教程的作者写这篇文章的原因只有一个——“I like regular expressions."。
+
+作者非常享受一个完全按照自身意愿去做的精心设计的正则表达式所带来的满足感。
+
+
+
 # Vim相关的书籍📚
 
 ## 《Practical Vim: Edit Text at the Speed of Thought》
